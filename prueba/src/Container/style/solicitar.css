@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Quicksand:wght@300&display=swap');
+
+.text{
+ font-family: 'Oswald', sans-serif;
+ font-size: 30px;
+ color: #000;
+ line-height: 35px;
+}
+
+p{
+ font-family: 'Quicksand', sans-serif;
+ font-size: 18px;
+}
+
+hr{
+ margin-top: 20px;
+ margin-bottom: 20px;
+ border: 0;
+ border-top: 1px solid #eee;
+ width: 200px;
+}

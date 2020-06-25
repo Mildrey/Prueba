@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Oswald&family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Quicksand:wght@300&display=swap');
+
+.NavBar{
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+h3{
+font-family: 'Oswald', sans-serif;
+}
+
+a{
+ color: #717f8f;
+ text-decoration: none;
+ background-color: transparent;
+ font-family: 'Lato', sans-serif;
+ font-weight: bolder;
+}
+a:hover {
+ color: #f3a229;
+}

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Quicksand:wght@300&display=swap');
+
+.carousel-inner {
+ width: 100%;
+ overflow: hidden;
+ height: 750px;
+}
+
+img{
+	position: relative;
+}
+
+.overlay {
+ position: absolute;
+ top: 0px;
+ background-color: rgba(45, 37, 37, 0.34);
+ width: 100%;
+ height: 100%;
+}
+
+h1{
+ color: white;
+ margin-top: 174px;
+ font-size: 59px;
+ font-family: 'Oswald', sans-serif;
+ margin-bottom: 18px;
+}
+
+h4{
+color: white;
+font-family: 'Quicksand', sans-serif;
+font-size: 33px;
+}
+
+button{
+ margin-top: 50px;
+}
+
+.cinta {
+ background: orange;
+ margin-top: 83px;
+ padding: 30px;
+ color: white;
+}
